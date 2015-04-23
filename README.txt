@@ -1,4 +1,4 @@
-﻿This is a fork from the original version hosted on Sourceforge.net. 
+﻿This is a fork from the original version developed by xbee hosted on Sourceforge.net. 
 
 Original Content of the Readme file:
 HotShots is an application for capturing screens and saving them in a variety of image formats as well as adding annotations and graphical data (arrows, lines, texts, ...).
